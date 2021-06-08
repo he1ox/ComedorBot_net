@@ -15,6 +15,14 @@
      
  </p>
 
+## ¿Que hace? 🤔
+
+Con este bot, puedes consultar todos aquellos platos, bebidas y ofertas que estén disponibles actualmente en el comedor de la Universidad Mariano Gálvez.
+También tienes varias comandos con los cuales puedes consultar una ayuda al bot, referente a comandos, enlaces etc... También es capaz de proveer la ubicación exacta
+de la universidad desde Google Maps y proveerte la ruta mas optima para que puedas llegar en tiempo real. 
+Por ultimo, si lo que deseas es algun numero de contacto de utilidad de la universidad también lo puedes consultar. 
+
+
 ## Construido con 🛠️ (Aplica como requisitos)
 * [Visual Studio](https://visualstudio.microsoft.com/es/) - Microsoft Visual Studio es un entorno de desarrollo integrado para Windows y macOS. Es compatible con múltiples lenguajes de programación, tales como C++, C#, Visual Basic
 

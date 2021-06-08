@@ -32,7 +32,7 @@ Por ultimo, si lo que deseas es algun numero de contacto de utilidad de la unive
 
 * [.NET CORE 5.0](https://es.wikipedia.org/wiki/.NET_Core) - .NET es un framework informático administrado, gratuito y de código abierto para los sistemas operativos Windows, Linux y macOS. ​ Es un sucesor multiplataforma de .NET Framework.​​ El proyecto es desarrollado principalmente por Microsoft bajo la Licencia MIT.​ 
 
-* [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - SQL Server es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Oracle Corporation y está considerada como la base de datos de código abierto más popular del mundo
+* [SQL SERVER](https://www.microsoft.com/es-es/sql-server/sql-server-downloads) - SQL Server es un sistema de gestión de bases de datos relacional desarrollado bajo licencia dual: Licencia pública general/Licencia comercial por Microsoft y está considerada como la base de datos de código abierto más popular del mundo
 
 * [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) - Framework ORM para mapear base de datos relacionales a clases.
 
